@@ -37,8 +37,8 @@ const Navbar: React.FC = () => {
         <Link href="/products"><li className="px-4 py-2 md:p-0 text-center md:text-left hover:text-gray-600">
           Products
         </li> </Link>
-        <Link href="/contact"> <li className="px-4 py-2 md:p-0 text-center md:text-left hover:text-gray-600">
-          Contact
+        <Link href="/about"> <li className="px-4 py-2 md:p-0 text-center md:text-left hover:text-gray-600">
+          About
         </li> </Link>
       </ul>
 
